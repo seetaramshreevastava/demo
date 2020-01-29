@@ -7,6 +7,6 @@
 7. Listing media gallery - working with them in a very csutomizable way. This is a custom components.
 8. PBA - Most of the customer-facing UI components are written in React, embedded in Visualforce pages
 9. Package Pipeline - A. React team will build these components and create a react bundle then test locally, and then at some point when they are ready for releasing they will trigger, travis release build, travis is the continuous intgration tool. This will automatically bulid react bundle and include into our package. once its create a react bundle then go to the core package and make sure that everything is included there as well, maybe new apex class, objects, fields. And once everything is on our master main branch. We will also trigger a release build there. Which will alse run through travis, then automatically download the react build and diploy onto our package  and release the new version of package.
-
+10. testing
 
 
