@@ -15,3 +15,5 @@
 <?php
 echo "test";
 ?>
+get_declared_classesgde
+get_declared_classesgde
