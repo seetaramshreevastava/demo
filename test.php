@@ -12,3 +12,6 @@
 15. new test point
 
 
+<?php
+echo "test";
+?>
